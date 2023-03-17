@@ -1,0 +1,3 @@
+# GuGu_Blog_Sync_Example
+
+使用依赖引入的方法接入GuGu_Blog_Sync，快速对接需要文章同步支持的站点。
